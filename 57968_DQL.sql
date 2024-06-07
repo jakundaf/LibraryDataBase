@@ -12,7 +12,7 @@ JOIN
 JOIN 
     KSIAZKI ON WYPOZYCZENIA.KSIAZKA_ID = KSIAZKI.KSIAZKA_ID
 WHERE 
-    KSIAZKI.DOSTEPNOSC = 'N'
+    KSIAZKI.DOSTEPNOSC = 'N';
 
 -- 16 najczęściej wypożyczanych książek w bibliotece
 
