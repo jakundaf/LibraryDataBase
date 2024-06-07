@@ -8,7 +8,7 @@ INSERT INTO CZYTELNICY (CZYTELNIK_ID, IMIE, NAZWISKO, EMAIL) VALUES (6, 'Marta',
 INSERT INTO CZYTELNICY (CZYTELNIK_ID, IMIE, NAZWISKO, EMAIL) VALUES (7, 'Janusz', 'Pawlowski', 'janusz.pawlowski@gmail.ocm');
 INSERT INTO CZYTELNICY (CZYTELNIK_ID, IMIE, NAZWISKO, EMAIL) VALUES (8, 'Michal', 'Gorski', 'michal.gorski@gmail.com');
 INSERT INTO CZYTELNICY (CZYTELNIK_ID, IMIE, NAZWISKO, EMAIL) VALUES (9, 'Joanna', 'Nowicka', 'joanna.nowicka@gmail.com');
-INSERT INTO CZYTELNICY (CZYTELNIK_ID, IMIE, NAZWISKO, EMAIL) VALUES (10, 'Krzysztof', 'Baran' 'krzysztof.baran@gmail.com');
+INSERT INTO CZYTELNICY (CZYTELNIK_ID, IMIE, NAZWISKO, EMAIL) VALUES (10, 'Krzysztof', 'Baran', 'krzysztof.baran@gmail.com');
 INSERT INTO CZYTELNICY (CZYTELNIK_ID, IMIE, NAZWISKO, EMAIL) VALUES (11, 'Agata', 'Kowalczyk', 'agata.kowalczyk@gmailc.om');
 INSERT INTO CZYTELNICY (CZYTELNIK_ID, IMIE, NAZWISKO, EMAIL) VALUES (12, 'Pawel', 'Krupa', 'pawel.krupa@gmail.com');
 INSERT INTO CZYTELNICY (CZYTELNIK_ID, IMIE, NAZWISKO, EMAIL) VALUES (13, 'Ewa', 'Kania', 'ewa,kania@gmail.com');
